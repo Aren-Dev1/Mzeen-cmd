@@ -19,7 +19,8 @@ Hi, I'm **0xR0ot**. 🚀 I’m into offensive security, penetration testing, and
 * **Systems**: Linux (Kali, custom builds), Windows internals
 
 # 💡 Current Projects
-*
+* 👾 Building AI with my team — privacy-focused and fully local
+* 🤖 Anti-Forensics Tool
 * 🐚 Developing a **custom RAT / C2** with stealth features
 * 🔐 Learning **advanced web exploitation** (SQLi, SSRF, RCE, etc.)
 * 📚 Building a workflow for **offensive security labs**
