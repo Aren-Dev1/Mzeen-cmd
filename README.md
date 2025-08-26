@@ -3,7 +3,7 @@
 
 Hi, I'm **0xR0ot**. 🚀 I’m into offensive security, penetration testing, and building tools that break limits.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/rootsec1337.png" alt="TryHackMe Badge" width="150" height="30" />
+<img src="https://tryhackme.com/p/rootsec1337/badge" alt="TryHackMe Badge">
 
 
 * 💻 **Pentester** — Web and network exploitation, recon, and privilege escalation
