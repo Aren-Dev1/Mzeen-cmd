@@ -3,13 +3,13 @@
 
 Hi, I'm **0xR0ot**. 🚀 I’m into offensive security, penetration testing, and building tools that break limits.
 
-<img src="https://tryhackme.com/p/rootsec1337/badge" alt="TryHackMe Badge">
+<img src="https://tryhackme-badges.s3.amazonaws.com/rootsec1337.png" alt="new" />
 
 
 * 💻 **Pentester** — Web and network exploitation, recon, and privilege escalation
 * 🛠️ **Malware Dev** — RATs, obfuscators, and C2 frameworks, loaders 
 * 🌐 **Learner & Builder** — Always experimenting with new attack methods and defenses
-
+* CTF player
 
 # 🔧 Skills
 
