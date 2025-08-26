@@ -3,7 +3,8 @@
 
 Hi, I'm **0xR0ot**. 🚀 I’m into offensive security, penetration testing, and building tools that break limits.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2959234" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/rootsec1337.png">
+
 
 * 💻 **Pentester** — Web and network exploitation, recon, and privilege escalation
 * 🛠️ **Malware Dev** — RATs, obfuscators, and C2 frameworks, loaders 
