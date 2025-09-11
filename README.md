@@ -1,7 +1,7 @@
 
 # 👋 About Me
 
-Hi, I'm **0xR0ot**. 🚀 I’m into offensive security, penetration testing, and building tools that break limits.
+Hi, I'm **Mzeen**. 🚀 I’m into offensive security, penetration testing, and building tools that break limits.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/rootsec1337.png" alt="new" />
 
