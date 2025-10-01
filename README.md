@@ -7,7 +7,7 @@ Hi, I'm **Mzeen**. 🚀 I’m into offensive security, penetration testing, and 
 
 
 * 💻 **Pentester** — Web and network exploitation, recon, and privilege escalation
-* 🛠️ **Malware Dev** — RATs, obfuscators, and C2 frameworks, loaders 
+* 🛠️ **Malware Dev** obfuscators, and C2 frameworks, loaders 
 * 🌐 **Learner & Builder** — Always experimenting with new attack methods and defenses
 * CTF player
 
@@ -21,7 +21,7 @@ Hi, I'm **Mzeen**. 🚀 I’m into offensive security, penetration testing, and 
 # 💡 Current Projects
 * 👾 Building AI with my team — privacy-focused and fully local
 * 🤖 Anti-Forensics Tool
-* 🐚 Developing a **custom RAT / C2** with stealth features
+* 🐚 Developing a **custom Loader/ C2** with stealth features
 * 🔐 Learning **advanced web exploitation** (SQLi, SSRF, RCE, etc.)
 * 📚 Building a workflow for **offensive security labs**
 
