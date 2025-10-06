@@ -27,7 +27,7 @@ Hi, I'm **Mzeen**. 🚀 I’m into offensive security, penetration testing, and 
 
 
 # 📌 Achievements
-* Top **4% on TryHackMe**
+* Top **3% on TryHackMe**
 * Built tools that bypass AV with **encryption + obfuscation**
 * Worked with Pretador OS Team 
 
