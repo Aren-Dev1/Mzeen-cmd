@@ -20,7 +20,6 @@ Hi, I'm **Mzeen**. 🚀 I’m into offensive security, penetration testing, and 
 
 # 💡 Current Projects
 * 👾 Building AI with my team — privacy-focused and fully local
-* 🤖 Anti-Forensics Tool
 * 🐚 Developing a **custom Loader/ C2** with stealth features
 * 🔐 Learning **advanced web exploitation** (SQLi, SSRF, RCE, etc.)
 * 📚 Building a workflow for **offensive security labs**
@@ -36,9 +35,7 @@ Hi, I'm **Mzeen**. 🚀 I’m into offensive security, penetration testing, and 
 * Covert data exfiltration methods
 * Malware development & obfuscation
 * Offensive security research
-* OPSEC
 * OSINT
 * exploit dev
-* pwn
 * Exploitaion
 
