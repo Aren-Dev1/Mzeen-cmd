@@ -1,86 +1,110 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=700&color=7A7A7A&center=true&vCenter=true&width=650&lines=MZEEN;Offensive+Security+Enthusiast;CTF+Player+%7C+Pentesting+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=700&color=7A7A7A&center=true&vCenter=true&width=780&lines=0xAren;CTF+Player+%7C+Bug+Bounty+Learner;Web+%26+Auth+Security+Focus" />
 </h1>
 
 <p align="center">
-  <em><strong>Web • API • Network Security • Automation</strong></em>
+  <em><strong>Web • API • Authentication • Business Logic</strong></em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mzeen-cmd">
+  <a href="https://tryhackme.com/p/MZEEN">
+    <img src="https://img.shields.io/badge/TryHackMe-Wizard-black?style=for-the-badge&logo=tryhackme"/>
+  </a>
+  <a href="https://github.com/0xAren">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
-  </a>
 </p>
 
 ---
 
-## 🧠 Profile
-Offensive Security learner focused on **hands-on exploitation, CTFs, and real-world attack simulation**.
+## 🧠 About Me
+CTF player and bug bounty learner focused on **understanding how real applications break**,  
+especially around **authentication flows and business logic bugs**.
 
-- 🧩 Active **CTF player** (Web, Forensics, Auth, JWT, SQLi)
-- 🐧 Daily driver: **Parrot OS / Linux**
-- ⚙️ Strong interest in **automation & custom tooling**
-- 🎯 Goal: Red Team / Bug Bounty / Pentesting
+- 🏆 **TryHackMe Wizard — Top 3%**
+- 🧩 **107 rooms completed**
+- 🐧 Linux-focused environment
+- 🎯 Learning through CTFs, labs & real-world practice
 
----
-
-## ⚔️ Focus Areas
-### 🔴 Offensive Security
-![Web](https://img.shields.io/badge/Web%20Pentesting-Learning-black?style=for-the-badge)
-![API](https://img.shields.io/badge/API%20Security-Learning-black?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network%20Pentesting-Beginner-black?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Strong-black?style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTFs-Active-black?style=for-the-badge)
+> I prefer understanding systems manually rather than relying only on automated tools.
 
 ---
 
-## 📊 Skills Snapshot
+## 🎯 Current Focus (Learning & Practice)
+![Logic](https://img.shields.io/badge/Business%20Logic-Practicing-black?style=for-the-badge)
+![IDOR](https://img.shields.io/badge/IDOR-Practicing-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Practicing-black?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Auth%20Bypasses-Practicing-black?style=for-the-badge)
+![Sessions](https://img.shields.io/badge/Session%20Handling-Practicing-black?style=for-the-badge)
+
+---
+
+## 📊 Skill Snapshot (Approximate & Honest)
 
 ### 🧪 Security Domains
-![Recon](https://img.shields.io/badge/Recon-80%25-111111?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web%20Vulns-75%25-111111?style=for-the-badge)
-![Auth](https://img.shields.io/badge/Auth%20%26%20JWT-70%25-111111?style=for-the-badge)
-![Forensics](https://img.shields.io/badge/Forensics-65%25-111111?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-85%25-111111?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web%20Security-70%25-111111?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Security-65%25-111111?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Auth%20Logic-75%25-111111?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon-70%25-111111?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics-Beginner-111111?style=for-the-badge)
 
 ---
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-80%25-222222?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-75%25-222222?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-222222?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-70%25-222222?style=for-the-badge&logo=mysql)
+## 🔬 Programming & Low-Level Learning
+![Python](https://img.shields.io/badge/Python-Learning-222222?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Practicing-222222?style=for-the-badge&logo=gnu-bash)
+![C](https://img.shields.io/badge/C-Learning-222222?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-Learning-222222?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-Learning-222222?style=for-the-badge&logo=go)
 
 ---
 
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux%20(Parrot%2FKali)-90%25-000000?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows%20Basics-60%25-000000?style=for-the-badge&logo=windows)
+## 🧠 How I Use Code
+- Write small **Python scripts** for recon & automation
+- Use **Bash** to glue tools together
+- Learning **C & Assembly** to understand memory, binaries & exploitation
+- Exploring **Go** for future tooling and performance
 
 ---
 
-## ⚙️ Tools I Actually Use
-![Burp](https://img.shields.io/badge/Burp%20Suite-Strong-black?style=for-the-badge&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-Strong-black?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-Strong-black?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-black?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Basic-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Comfortable-black?style=for-the-badge&logo=git)
+## 🛠️ Tools I Use While Learning
+![Burp](https://img.shields.io/badge/Burp%20Suite-Regular-black?style=for-the-badge&logo=burpsuite)
+![ffuf](https://img.shields.io/badge/ffuf-Regular-black?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-Regular-black?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Regular-black?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-Basic-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Regular-black?style=for-the-badge&logo=git)
 
 ---
 
-## 🚀 Currently Grinding
-- Web & API exploitation
-- Authentication bypasses (JWT, logic flaws)
-- Custom Python recon scripts
-- CTF writeups & labs
+## 🧪 Forensics (Learning)
+- Basic file analysis (strings, metadata, archives)
+- Simple log & artifact inspection
+- Still learning deeper forensic techniques
+
+---
+
+## 🖥️ Operating Systems (Experience & Exposure)
+![Parrot](https://img.shields.io/badge/Parrot%20OS-Daily%20Use-000000?style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali%20Linux-Regular%20Use-000000?style=for-the-badge)
+![Athena](https://img.shields.io/badge/Athena%20OS-Explored-000000?style=for-the-badge)
+![Pentoo](https://img.shields.io/badge/Pentoo-Explored-000000?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Comfortable-000000?style=for-the-badge&logo=ubuntu)
+![Arch](https://img.shields.io/badge/Arch%20Linux-Explored-000000?style=for-the-badge&logo=archlinux)
+![Debian](https://img.shields.io/badge/Debian-Explored-000000?style=for-the-badge&logo=debian)
+
+---
+
+## 🚀 Currently Working On
+- Manual testing of **logic & workflow flaws**
+- IDOR, JWT & session-based attacks
+- Strengthening **Python fundamentals**
+- Learning **C & Assembly** for deeper exploitation knowledge
+- Writing clearer **CTF writeups**
 
 ---
 
 <p align="center">
-  <strong>⚠️ Learning by breaking. Improving by failing. ⚠️</strong>
+  <strong>📈 Learning in public. Building skills the right way.</strong>
 </p>
