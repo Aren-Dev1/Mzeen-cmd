@@ -11,7 +11,7 @@
   <a href="https://tryhackme.com/p/MZEEN">
     <img src="https://img.shields.io/badge/TryHackMe-Wizard-black?style=for-the-badge&logo=tryhackme"/>
   </a>
-  <a href="https://github.com/0xAren">
+  <a href="https://github.com/Aren-Dev1">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
