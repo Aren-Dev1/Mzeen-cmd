@@ -19,7 +19,7 @@
 ---
 
 ## 🧠 About Me
-CTF player and bug bounty learner focused on **understanding how real applications break**,  
+CTF player  learner focused on **understanding how real applications break**,  
 especially around **authentication flows and business logic bugs**.
 
 - 🏆 **TryHackMe Wizard — Top 3%**
