@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/MZEEN">
+  <a href="https://tryhackme.com/p/Arensec">
     <img src="https://img.shields.io/badge/TryHackMe-Wizard-black?style=for-the-badge&logo=tryhackme"/>
   </a>
   <a href="https://github.com/Aren-Dev1">
